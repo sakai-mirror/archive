@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry excluding="**/.DS_Store" kind="src" path="impl/src/java"/>
+	<classpathentry kind="src" path="impl2/src/java"/>
+	<classpathentry kind="src" path="pack/src/webapp/WEB-INF"/>
 	<classpathentry sourcepath="JRE_SRC" kind="var" path="JRE_LIB"/>
 	<classpathentry kind="var" path="MAVEN_REPO/commons-logging/jars/commons-logging-1.0.4.jar"/>
 	<classpathentry kind="var" path="MAVEN_REPO/xerces/jars/xercesImpl-2.6.2.jar"/>
@@ -13,5 +15,7 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/content-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/util-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/util-util"/>
+	<classpathentry kind="lib" path="/Users/sgithens/.maven/repository/commons-logging/jars/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/sgithens/.maven/repository/xerces/jars/xercesImpl-2.6.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
