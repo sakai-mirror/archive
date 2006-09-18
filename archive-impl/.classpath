@@ -15,7 +15,5 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/content-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/util-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/util-util"/>
-	<classpathentry kind="lib" path="/Users/sgithens/.maven/repository/commons-logging/jars/commons-logging-1.0.4.jar"/>
-	<classpathentry kind="lib" path="/Users/sgithens/.maven/repository/xerces/jars/xercesImpl-2.6.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
