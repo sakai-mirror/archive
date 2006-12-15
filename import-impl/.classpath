@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src/java"/>
-	<classpathentry sourcepath="JRE_SRC" kind="var" path="JRE_LIB"/>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/import-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/archive-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/announcement-api"/>
@@ -18,6 +18,5 @@
 	<classpathentry kind="var" path="MAVEN_REPO/saxpath/jars/saxpath-1.0-FCS.jar"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/message-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/tool-api"/>
-	<classpathentry kind="var" path="MAVEN_REPO/xerces/jars/xmlParserAPIs-2.6.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
