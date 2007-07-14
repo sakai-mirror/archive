@@ -5,7 +5,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/import-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/archive-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/announcement-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/sam"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/content-api"/>
 	<classpathentry kind="var" path="MAVEN_REPO/commons-logging/jars/commons-logging-1.0.4.jar"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/event-api"/>
