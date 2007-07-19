@@ -1,162 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src/java"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/a: acetylene"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/a: agreement4"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/a: bcce"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/a: enrollment"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/a: GNU Getopt"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/a: htmlterm"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/a: nuldap provider"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/a: owl api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/a: owl study"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/a: rsf64candidate"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/a: rsfgallery"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/a: rsflib"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/a: sash tests"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/a: Searle Study"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/a: sitestats53"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/a: tasklist"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/a: toolconfig"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/aa: coursetopics"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/access-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/access-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/access-web-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/alias-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/alias-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/alias-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/announcement-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/announcement-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/announcement-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/archive-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/archive-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/archive-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/assignment-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/assignment-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/assignment-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/authz-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/authz-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/authz-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/calendar-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/calendar-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/calendar-summary-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/calendar-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/calendar-util"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/chat-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/chat-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/chat-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/cluster-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/cluster-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/cm-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/cm-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/component-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/component-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/content-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/content-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/content-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/courier-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/courier-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/courier-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/courier-util"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/dav"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/db-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/db-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/db-util"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/discussion-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/discussion-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/discussion-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/email-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/email-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/entity-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/entity-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/entity-util"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/event-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/event-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/event-util"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/gradebook"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/help"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/jsf"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/login-authn-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/login-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/mailarchive-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/mailarchive-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/mailarchive-james"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/mailarchive-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/memory-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/memory-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/memory-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/mergedlist-util"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/message-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/message-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/message-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/messageforums"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/metaobj"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/metaobj-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/news-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/news-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/news-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/osid"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/osp"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/portal-charon"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/portal-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/portal-mercury"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/portal-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/portal-util"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/postem"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/presence-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/presence-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/presence-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/presence-util"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/presentation"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/profile"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/providers"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/reference"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/roster"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/rwiki-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/rwiki-help"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/rwiki-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/rwiki-integration-test"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/rwiki-model"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/rwiki-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/rwiki-util"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/sam"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/scheduler"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/search-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/search-help"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/search-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/search-integration-test"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/search-model"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/search-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/sections-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/sections-app"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/sections-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/site-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/site-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/site-manage-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/site-manage-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/site-manage-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/site-manage-util"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/site-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/syllabus"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/test-harness"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/textarea"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/tool-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/tool-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/tool-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/tool-util"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/user-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/user-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/user-tool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/user-tool-admin-prefs"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/user-tool-prefs"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/user-util"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/util-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/util-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/util-util"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/velocity"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/web-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/web-impl"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/web-tool"/>
-	<classpathentry kind="output" path="bin"/>
+  <classpathentry kind="src" path="src/java"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/a: acetylene"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/a: agreement4"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/a: bcce"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/a: enrollment"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/a: GNU Getopt"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/a: htmlterm"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/a: nuldap provider"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/a: owl api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/a: owl study"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/a: rsf64candidate"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/a: rsfgallery"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/a: rsflib"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/a: sash tests"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/a: Searle Study"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/a: sitestats53"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/a: tasklist"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/a: toolconfig"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/aa: coursetopics"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/access-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/access-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/access-web-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/alias-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/alias-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/alias-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/announcement-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/announcement-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/announcement-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/archive-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/archive-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/archive-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/assignment-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/assignment-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/assignment-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/authz-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/authz-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/authz-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/calendar-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/calendar-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/calendar-summary-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/calendar-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/calendar-util"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/chat-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/chat-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/chat-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/cluster-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/cluster-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/cm-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/cm-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/component-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/component-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/content-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/content-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/content-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/courier-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/courier-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/courier-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/courier-util"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/dav"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/db-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/db-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/db-util"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/discussion-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/discussion-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/discussion-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/email-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/email-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/entity-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/entity-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/entity-util"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/event-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/event-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/event-util"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/gradebook"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/help"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/jsf"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/login-authn-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/login-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/mailarchive-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/mailarchive-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/mailarchive-james"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/mailarchive-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/memory-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/memory-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/memory-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/mergedlist-util"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/message-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/message-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/message-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/messageforums"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/metaobj"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/metaobj-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/news-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/news-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/news-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/osid"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/osp"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/portal-charon"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/portal-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/portal-mercury"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/portal-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/portal-util"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/postem"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/presence-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/presence-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/presence-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/presence-util"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/presentation"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/profile"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/providers"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/reference"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/roster"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/rwiki-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/rwiki-help"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/rwiki-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/rwiki-integration-test"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/rwiki-model"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/rwiki-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/rwiki-util"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/sam"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/scheduler"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/search-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/search-help"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/search-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/search-integration-test"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/search-model"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/search-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/sections-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/sections-app"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/sections-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/site-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/site-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/site-manage-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/site-manage-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/site-manage-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/site-manage-util"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/site-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/syllabus"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/test-harness"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/textarea"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/tool-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/tool-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/tool-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/tool-util"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/user-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/user-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/user-tool"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/user-tool-admin-prefs"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/user-tool-prefs"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/user-util"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/util-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/util-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/util-util"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/velocity"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/web-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/web-impl"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/web-tool"/>
+  <classpathentry kind="output" path="bin"/>
 </classpath>

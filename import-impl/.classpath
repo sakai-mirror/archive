@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src/java"/>
-	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/import-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/archive-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/announcement-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/content-api"/>
-	<classpathentry kind="var" path="MAVEN_REPO/commons-logging/jars/commons-logging-1.0.4.jar"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/event-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/entity-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/util-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/component-api"/>
-	<classpathentry kind="var" path="MAVEN_REPO/activation/jars/activation-1.0.2.jar"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/site-api"/>
-	<classpathentry kind="var" path="MAVEN_REPO/jaxen/jars/jaxen-1.0-FCS-full.jar"/>
-	<classpathentry kind="var" path="MAVEN_REPO/saxpath/jars/saxpath-1.0-FCS.jar"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/message-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/tool-api"/>
-	<classpathentry kind="output" path="bin"/>
+  <classpathentry kind="src" path="src/java"/>
+  <classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/import-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/archive-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/announcement-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/content-api"/>
+  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/event-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/entity-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/util-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/component-api"/>
+  <classpathentry kind="var" path="M2_REPO/javax/activation/activation/1.0.2/activation-1.0.2.jar"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/site-api"/>
+  <classpathentry kind="var" path="M2_REPO/jaxen/jaxen/1.0-FCS-full/jaxen-1.0-FCS-full.jar"/>
+  <classpathentry kind="var" path="M2_REPO/saxpath/saxpath/1.0-FCS/saxpath-1.0-FCS.jar"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/message-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/tool-api"/>
+  <classpathentry kind="output" path="bin"/>
 </classpath>
