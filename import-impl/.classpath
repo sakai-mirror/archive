@@ -7,7 +7,7 @@
   <classpathentry kind="var" path="M2_REPO/jaxen/jaxen/1.0-FCS-full/jaxen-1.0-FCS-full.jar"/>
   <classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar"/>
   <classpathentry kind="src" path="/sakai-archive-api"/>
-  <classpathentry kind="var" path="M2_REPO/org/sakaiproject/kernel/sakai-component-manager/1.0.6/sakai-component-manager-1.0.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/sakaiproject/kernel/sakai-component-manager/1.0.7/sakai-component-manager-1.0.7.jar"/>
   <classpathentry kind="src" path="/sakai-import-api"/>
   <classpathentry kind="var" path="M2_REPO/saxpath/saxpath/1.0-FCS/saxpath-1.0-FCS.jar"/>
 </classpath>
