@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <classpath>
   <classpathentry kind="src" path="src/java"/>
-  <classpathentry sourcepath="JRE_SRC" kind="var" path="JRE_LIB"/>
+  <classpathentry kind="output" path="m2-target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/jaxen/jaxen/1.0-FCS-full/jaxen-1.0-FCS-full.jar"/>
   <classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar"/>
-  <classpathentry combineaccessrules="false" kind="src" path="/archive-api"/>
-  <classpathentry combineaccessrules="false" kind="src" path="/import-api"/>
-  <classpathentry combineaccessrules="false" kind="src" path="/import-impl"/>
-  <classpathentry kind="output" path="bin"/>
+  <classpathentry kind="src" path="/sakai-archive-api"/>
+  <classpathentry kind="src" path="/sakai-import-api"/>
+  <classpathentry kind="src" path="/sakai-import-impl"/>
+  <classpathentry kind="var" path="M2_REPO/saxpath/saxpath/1.0-FCS/saxpath-1.0-FCS.jar"/>
 </classpath>
