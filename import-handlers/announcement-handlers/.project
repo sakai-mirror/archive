@@ -2,8 +2,8 @@
   <name>sakai-import-announcement</name>
   <comment/>
   <projects>
-    <project>sakai-import-api</project>
-    <project>sakai-import-impl</project>
+    <project>sakai-announcement-api</project>
+    <project>sakai-message-api</project>
   </projects>
   <buildSpec>
     <buildCommand>

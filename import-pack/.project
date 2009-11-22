@@ -1,12 +1,8 @@
 <projectDescription>
-  <name>sakai-import</name>
+  <name>sakai-anouncement-import</name>
   <comment/>
   <projects>
-    <project>sakai-archive-import</project>
-    <project>sakai-common-cartridge</project>
     <project>sakai-import-announcement</project>
-    <project>sakai-import-content</project>
-    <project>sakai-import-impl</project>
   </projects>
   <buildSpec>
     <buildCommand>
