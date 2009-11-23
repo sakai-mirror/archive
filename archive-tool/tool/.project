@@ -2,7 +2,8 @@
   <name>sakai-archive-tool</name>
   <comment/>
   <projects>
-    <project>sakai-archive-api</project>
+    <project>sakai-velocity-tool</project>
+    <project>sakai-velocity-tool-api</project>
   </projects>
   <buildSpec>
     <buildCommand>
