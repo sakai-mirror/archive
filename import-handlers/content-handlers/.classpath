@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src/java"/>
-	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/content-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/entity-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/event-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/import-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/util-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/import-impl"/>
-	<classpathentry kind="var" path="M2_REPO/javax/activation/activation/1.0.2/activation-1.0.2.jar"/>
-	<classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/component-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/tool-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/util-util"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/authz-api"/>
-	<classpathentry kind="output" path="bin"/>
+  <classpathentry kind="src" path="src/java" including="**/*.java"/>
+  <classpathentry kind="output" path="m2-target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/activation/activation/1.0.2/activation-1.0.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar"/>
+  <classpathentry kind="src" path="/sakai-authz-api"/>
+  <classpathentry kind="src" path="/sakai-component-api"/>
+  <classpathentry kind="src" path="/sakai-content-api"/>
+  <classpathentry kind="src" path="/sakai-entity-api"/>
+  <classpathentry kind="src" path="/sakai-event-api"/>
+  <classpathentry kind="src" path="/sakai-import-api"/>
+  <classpathentry kind="src" path="/sakai-import-impl"/>
+  <classpathentry kind="src" path="/sakai-tool-api"/>
+  <classpathentry kind="src" path="/sakai-util"/>
+  <classpathentry kind="src" path="/sakai-util-api"/>
+  <classpathentry kind="var" path="M2_REPO/saxpath/saxpath/1.0-FCS/saxpath-1.0-FCS.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 </classpath>

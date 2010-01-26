@@ -1,5 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-  <classpathentry sourcepath="JRE_SRC" kind="var" path="JRE_LIB"/>
-  <classpathentry kind="output" path="bin"/>
+  <classpathentry kind="output" path="m2-target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar"/>
+  <classpathentry kind="src" path="/sakai-archive-import"/>
+  <classpathentry kind="src" path="/sakai-common-cartridge"/>
+  <classpathentry kind="src" path="/sakai-import-announcement"/>
+  <classpathentry kind="src" path="/sakai-import-content"/>
+  <classpathentry kind="src" path="/sakai-import-impl"/>
+  <classpathentry kind="src" path="/sakai-util"/>
+  <classpathentry kind="var" path="M2_REPO/saxpath/saxpath/1.0-FCS/saxpath-1.0-FCS.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 </classpath>
