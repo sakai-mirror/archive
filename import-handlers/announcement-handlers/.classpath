@@ -1,0 +1,15 @@
+<classpath>
+  <classpathentry kind="src" path="src/java" including="**/*.java"/>
+  <classpathentry kind="output" path="m2-target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar"/>
+  <classpathentry kind="src" path="/sakai-announcement-api"/>
+  <classpathentry kind="src" path="/sakai-entity-api"/>
+  <classpathentry kind="src" path="/sakai-import-api"/>
+  <classpathentry kind="src" path="/sakai-import-impl"/>
+  <classpathentry kind="src" path="/sakai-message-api"/>
+  <classpathentry kind="src" path="/sakai-site-api"/>
+  <classpathentry kind="src" path="/sakai-util-api"/>
+  <classpathentry kind="var" path="M2_REPO/saxpath/saxpath/1.0-FCS/saxpath-1.0-FCS.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+</classpath>
